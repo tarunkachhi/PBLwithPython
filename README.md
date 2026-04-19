@@ -5,7 +5,7 @@ A simple command-line calculator that performs basic arithmetic operations.
 
 - Tech: Python
 - Concepts: conditional, while loop, user input  
-👉 [View Project](./menucard)
+👉 [View Project](./menucard.py)
 
 ---
 
