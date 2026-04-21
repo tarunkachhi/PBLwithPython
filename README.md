@@ -1,7 +1,7 @@
 ## 📂 Projects
 
 ### 🧮 Restaurant menu card
-A simple command-line calculator that performs basic arithmetic operations.
+A simple command-line Menu card that calculate amount to be paid.
 
 - Tech: Python
 - Concepts: conditional, while loop, user input  
@@ -9,9 +9,13 @@ A simple command-line calculator that performs basic arithmetic operations.
 
 ---
 
-### 🎯 on working wait
-A fun CLI game where the user guesses a random number with hints.
+### 🎯 To-Do Management
+A Task management system where the user stores task on daily basis.
 
 - Tech: Python
-- Concepts: Random module, conditionals, loops  
-👉 [View Project](./number-guessing-game)
+- Concepts: function, conditionals, loops  
+👉 [View Project](./source_codes/To-Do.py)
+
+---
+
+### Soon
