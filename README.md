@@ -18,4 +18,13 @@ A Task management system where the user stores task on daily basis.
 
 ---
 
-### Soon
+### Grade Management
+A simple command-line Grade management system that manages students and their grades.
+
+- Tech: Python
+- Concepts: function, conditionals, loops  
+👉 [View Project](./source_codes/grade_management.py)
+
+---
+
+### soon
