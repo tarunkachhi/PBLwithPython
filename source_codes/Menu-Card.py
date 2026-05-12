@@ -1,4 +1,3 @@
-# lets create our 1st menu card project
 menu = {
     'Pizza' : 130,
     'Pasta' : 80,
@@ -8,7 +7,7 @@ menu = {
 
 order_count = 0
 
-print("\033[1m""----Welcome to Our Restaurant----""\033[0m")
+print("\033[1m""---- Welcome to Our Restaurant ----""\033[0m")
 for key,value in menu.items():
     print(f"{key} : {value}")
 
