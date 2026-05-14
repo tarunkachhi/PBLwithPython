@@ -1,9 +1,11 @@
 student_grade = { }
 
+# function to add students in list
 def add_student(name,grade):
     student_grade[name] = grade
     print(f"{name} is added in system with {grade} marks")
 
+# function to update the list / grade update of student
 def update_student(name,grade):
     if name in student_grade:
         student_grade[name] = grade
@@ -11,6 +13,7 @@ def update_student(name,grade):
     else:
         print(f"{name} is not found!")
 
+# function to delete the student in list
 def delete_student(name):
     if name in student_grade:
         del student_grade[name]
@@ -18,6 +21,7 @@ def delete_student(name):
     else:
         print(f"{name} is not found!")
     
+# function to Display list of student
 def display_all():
     if student_grade:
         for name,grade in student_grade.items():
@@ -25,6 +29,7 @@ def display_all():
     else:
         print(f"students not found!")
 
+# main function where all functions will run
 def main():
     while True:
         print("\n---- Student grade management system ----")

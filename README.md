@@ -27,4 +27,21 @@ A simple command-line Grade management system that manages students and their gr
 
 ---
 
-### soon
+### Rent Calculator
+A simple calculator that divides the equal sharing amount between friends to calculate the rent between them.
+- Tech: Python
+- Concept: Input, Output, variables  
+👉 [View Project](./source_codes/Rent_Calculator.py)
+
+---
+
+### Rock Paper Scissor Game
+A simple Command-line game User vs computer.
+
+- Tech: Python
+- concept: conditionals  
+👉 [View Project](./source_codes/rock_paper_scissor.py)
+
+---
+
+### SOON
